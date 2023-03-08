@@ -13,7 +13,11 @@
     "muscle_group": "back",
     "workout_type": "A",
     "workout_time": 50,
-    "exercises":[],
+    "workout":[{
+      "name": "afundo",
+      "repeat": "12",
+      "set":"3"
+    }],
     "userId":2
     }
   ]
