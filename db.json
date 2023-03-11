@@ -22,11 +22,13 @@
   
   "workouts": [
     {
-      "workout_type": "Hipertrofia",
-      "workout_objective": "Ganho de massa muscular",
-      "workout_duration": "4 meses",
-      "workout_periodization":"4x por semana",
-      "id":1 
+      "workout_type": "A",
+      "muscle_group": "",
+      "workout": "nameExercise",
+      "series": "4",
+      "repetitions": "24",
+      "charge": "50kg",
+      "id" : 1	
     }
   ]
 }
