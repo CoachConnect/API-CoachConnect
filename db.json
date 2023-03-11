@@ -4,21 +4,29 @@
       "email": "admin@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Admin",
-      "isAdmin":true,
+      "isAdmin": true,
       "id": 1
+    },
+    {
+      "email": "teste1@mail.com",
+      "password": "$2a$10$yh/x5nWXFdG8t70oyVTj/.5AlSxeS8T7hfFDsAR2oG3D8N7t.l7iq",
+      "name": "teste1",
+      "id": 2
+    },
+    {
+      "email": "teste2@mail.com",
+      "password": "$2a$10$aCUivvxUJdBiWTFK9FAOhun1t2e45aJFkM.Q3wOTKOhh/QmcxwdQy",
+      "id": 3
     }
   ],
+  
   "workouts": [
     {
-    "muscle_group": "back",
-    "workout_type": "A",
-    "workout_time": 50,
-    "workout":[{
-      "name": "afundo",
-      "repeat": "12",
-      "set":"3"
-    }],
-    "userId":2
+      "workout_type": "Hipertrofia",
+      "workout_objective": "Ganho de massa muscular",
+      "workout_duration": "4 meses",
+      "workout_periodization":"4x por semana",
+      "id":1 
     }
   ]
 }
